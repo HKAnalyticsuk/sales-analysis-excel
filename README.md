@@ -1,4 +1,4 @@
-## BCG Job Simulation – Campaign Revenue Analysis (Excel)
+## Campaign Revenue Analysis - Excel
 
 Sales channel and campaign analysis using Excel pivot tables and charts
 
@@ -28,3 +28,7 @@ promotional approach
 can be just as important as the offer itself
 
 ## Screenshots
+![Pivot Table of Campaign Sales](Total_Sales_by_Campaign.png) 
+![Pivot Table of Channel Sales](Total_Sales_by_Channel.png)
+![Revenue Chart](Revenue_by_Category.png)
+![Sales by Category Chart](Sales_from_New_Customers_by_Channel.png)
