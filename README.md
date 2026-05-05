@@ -3,10 +3,7 @@
 Sales channel and campaign analysis using Excel pivot tables and charts
 
 ## Overview
-This project was completed as part of the BCG Introduction to Data for Decision 
-Makers Job Simulation. The task involved analysing sales data across two marketing 
-campaigns to determine which generated the most revenue and which channel was most 
-effective at converting new customers.
+This project involved analysing sales data across two marketing campaigns to determine which generated the most revenue and which channel was most effective at converting new customers
 
 ## The Business Question
 A business ran two campaigns with different messaging approaches:
@@ -20,15 +17,14 @@ particularly for acquiring new customers.
 Microsoft Excel (Pivot Tables, Charts)
 
 ## Key Findings
-- **Email** was the highest revenue-generating channel across both campaigns
-- **Campaign A** outperformed Campaign B for new customer revenue — suggesting 
-that a conversational tone resonates more with new audiences than a direct 
-promotional approach
-- This highlights that for businesses targeting new customers, tone of messaging 
-can be just as important as the offer itself
-
-## Screenshots
-![Pivot Table of Campaign Sales](Total_Sales_by_Campaign.png) 
+- **Email** was the highest revenue-generating channel across both campaigns.
 ![Pivot Table of Channel Sales](Total_Sales_by_Channel.png)
-![Revenue Chart](Revenue_by_Category.png)
-![Sales by Category Chart](Sales_from_New_Customers_by_Channel.png)
+
+- **Campaign A** outperformed Campaign B for new customer revenue — suggesting
+that a conversational tone resonates more with new audiences than a direct 
+promotional approach.
+![Sales from New Customers by Channel](Sales_from_New_Customers_by_Channel.png)
+
+- This highlights that for businesses targeting new customers, tone of messaging 
+can be just as important as the offer itself.
+![Pivot Table of Campaign Sales](Total_Sales_by_Campaign.png) 
