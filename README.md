@@ -18,13 +18,16 @@ Microsoft Excel (Pivot Tables, Charts)
 
 ## Key Findings
 - **Email** was the highest revenue-generating channel across both campaigns.
+
 ![Pivot Table of Channel Sales](Total_Sales_by_Channel.png)
 
 - **Campaign A** outperformed Campaign B for new customer revenue — suggesting
 that a conversational tone resonates more with new audiences than a direct 
 promotional approach.
+
 ![Sales from New Customers by Channel](Sales_from_New_Customers_by_Channel.png)
 
 - This highlights that for businesses targeting new customers, tone of messaging 
 can be just as important as the offer itself.
+
 ![Pivot Table of Campaign Sales](Total_Sales_by_Campaign.png) 
