@@ -27,7 +27,7 @@ promotional approach.
 
 ![Sales from New Customers by Channel](Sales_from_New_Customers_by_Channel.png)
 
-- **Business Recommendation** - Businesses targeting customer acquisition may benefit from prioritising conversational and relationship-focused messaging strategies over heavily promotional campaigns, particularly in email marketing.
+**Business Recommendation** - Businesses targeting customer acquisition may benefit from prioritising conversational and relationship-focused messaging strategies over heavily promotional campaigns, particularly in email marketing.
 
 
 - This highlights that for businesses targeting new customers, tone of messaging 
