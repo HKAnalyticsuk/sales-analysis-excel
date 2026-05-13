@@ -25,6 +25,10 @@ Microsoft Excel (Pivot Tables, Charts)
 that a conversational tone resonates more with new audiences than a direct 
 promotional approach.
 
+## Business Recommendation
+
+Businesses targeting customer acquisition may benefit from prioritising conversational and relationship-focused messaging strategies over heavily promotional campaigns, particularly in email marketing.
+
 ![Sales from New Customers by Channel](Sales_from_New_Customers_by_Channel.png)
 
 - This highlights that for businesses targeting new customers, tone of messaging 
